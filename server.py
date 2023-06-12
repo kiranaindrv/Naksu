@@ -28,6 +28,8 @@ async def create_upload_file(upload_file:UploadFile, response: Response):
         print(img2)
         img3 = img2/225.0
         print(img3.shape)
+
+        # Predictnya masih error
         # result = model.predict(img3)
         # print(result)
 
