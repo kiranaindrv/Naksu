@@ -1,0 +1,7 @@
+tensorflow
+fastapi
+io
+numpy
+keras
+uvicorn
+gunicorn
